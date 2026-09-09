@@ -253,4 +253,4 @@ This repository serves as the official landing page for Open Watcom. The softwar
 **Get the most recent version of Open Watcom today!**
 
 ---
-**Last updated:** 2026-09-09 02:10:56 UTC
+**Last updated:** 2026-09-09 07:41:10 UTC
